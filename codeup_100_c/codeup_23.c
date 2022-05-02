@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    int a,b,c,d,e;
+    printf("5자리수의 정수를 입력하시오:");
+    scanf("%1d%1d%1d%1d%1d",&a,&b,&c,&d,&e);
+    printf("%d\n%d\n%d\n%d\n%d\n",a*10000,b*1000,c*100,d*10,e);
+    return 0;
+}
