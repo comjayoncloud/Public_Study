@@ -141,3 +141,4 @@ class Hello extends React.Component {
 
 // 화면을 보면 man으로 되어있음. 버튼을 누러서 바꾸는 코드. 중요한것은 changeGender가 바로 실행안됨
 
+
